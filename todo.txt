@@ -1,0 +1,3 @@
+Move augustine to src
+Add tox
+Add testing
